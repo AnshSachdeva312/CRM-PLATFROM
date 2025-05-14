@@ -5,7 +5,7 @@ A simple CRM web app to create customer segments and generate AI-powered message
 
 
 
-Demo Video: [[Link to YouTube/Google Drive] (Add after recording)](https://drive.google.com/file/d/1kVcSj9rBHlH4mGpFDMkcMOSlMLsYg14z/view?usp=sharing)
+Demo Video: (https://drive.google.com/file/d/1kVcSj9rBHlH4mGpFDMkcMOSlMLsYg14z/view?usp=sharing)
 
 Functionalities
 
